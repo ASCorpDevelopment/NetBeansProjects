@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.asc.entidades;
+package com.bsangola.entidades;
 
 import com.bsangola.enums.Cargo;
 import com.bsangola.enums.Estado;

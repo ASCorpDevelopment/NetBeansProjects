@@ -1,4 +1,4 @@
-package com.asc.jframes;
+package com.bsangola.visao;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

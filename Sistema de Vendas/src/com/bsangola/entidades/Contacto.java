@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bsangola.cruds;
-
-import com.asc.entidades.Usuario;
-import java.sql.CallableStatement;
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+package com.bsangola.entidades;
 
 /**
  *
  * @author adils
  */
-public class UsuarioDAO {
+public class Contacto {
     
+    private Integer  codigo;
+    private String telefone;
+    private String email;
+    private Funcionario funcionario;
 
+    
 }

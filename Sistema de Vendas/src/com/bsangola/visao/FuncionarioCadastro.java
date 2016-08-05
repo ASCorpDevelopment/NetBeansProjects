@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.asc.jframes;
+package com.bsangola.visao;
 
-import com.asc.entidades.Funcionario;
+import com.bsangola.entidades.Funcionario;
 import javax.swing.JCheckBox;
 import javax.swing.JOptionPane;
 
